@@ -4,6 +4,10 @@ html, body{
 	justify-content: center;
 }
 
+body  {
+  	 background-image: url(img/photo.jpg);
+}
+
 img.me {
 	border-radius: 40%;
 	display: block;
@@ -54,3 +58,4 @@ h2{
 .text{
 	 font-size: 18px;
 }
+
