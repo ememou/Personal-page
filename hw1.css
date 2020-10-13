@@ -1,0 +1,56 @@
+html, body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+img.me {
+	border-radius: 40%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.socialmedia {
+    position: absolute;
+	left: 380px;
+	top: 450px;
+}
+
+div.first{        
+	background-color:#ccc;
+    width:500px;
+    height:500px;
+	float:left; 
+	border: 3px solid black;
+}
+
+div.second{        
+	background-color:LightGray;
+	width:500px;
+    height:500px;
+	float:left; 
+	border: 3px solid black;
+}
+
+.home{
+	position: absolute;
+	left: 230px;
+	top: 230px;
+}
+
+.mail{
+	position: absolute;
+	left: 230px;
+	top: 280px;
+}
+
+
+h2{
+	text-align: center;
+}
+
+.text{
+	 font-size: 18px;
+}
